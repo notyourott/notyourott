@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @notyourott
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning assembly x86
